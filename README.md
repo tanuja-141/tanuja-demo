@@ -1,2 +1,3 @@
 # tanuja-demo
-This is my first git repository
+This Is My First Git Repository
+Author - Tanuja Nehere
